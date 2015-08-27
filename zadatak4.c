@@ -1,3 +1,10 @@
+/*
+Zadatak(10 bodova):
+Omogučiti korisniku unos dimenzija kvadratne matrice (2-D polja) cijelih brojeva dxd (24< d <= 70)
+Potom, popuniti ju pseudo-slučajnim brojevima [-29, 57].
+Izracunati i na ekranu ispisati srednju vrijednost svih elemenata na glavnoj diagonali s neparnom vrjednošću.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

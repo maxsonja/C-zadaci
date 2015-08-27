@@ -1,3 +1,11 @@
+/*
+zadatak 4(10 bodova):
+Omogućiti korisniku unos dimenzija kvadratne matrice(2-D polja) realnih brojeva a x b(2<= a <7 i 4<= b < 8)
+Potom ju popuniti pseudo-slučajnim brojevima u [20,50]cR.
+Izračunati aritmetičku sredinu svakog stupca matrice zasebno 
+i na ekranu ispisati stupac s najmanjom aritmetičkom sredinom.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

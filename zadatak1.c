@@ -1,7 +1,8 @@
-/*
-u sublimeu postavi build system na c++
-stisni ctrl+b
-i u folderu di se nalazi spremljen ovaj file ces imat .exe istog imena kojeg pokrenes
+/* 
+Zadatak (6bodova):
+Omogućiti korisniku unos r(7<r<19) elemenata u polje realnih brojeva.
+Promjeniti svim elementima u polja vrjednost u kubnu (treća potencija)
+ako im je ona manja od srednje vrijednosti svih elemenata.
 */
 
 #include <stdio.h>		
